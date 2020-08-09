@@ -1,4 +1,13 @@
 
+v0.1.4 / 2020-08-09
+==================
+
+  * Changed: LICENSE moved to CC-BY-SA
+  * Changed: README.md splitted
+  * Changed: updated notebooks
+  * Fixed: trace() -> tr()
+  * Physical problems
+
 0.1.3 / 2020-05-19
 ==================
 
