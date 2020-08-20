@@ -6,7 +6,7 @@
     - Usage:
 
 ``` bash
-pandoc --filter pandoc-minted.py myfile.md -o myfile.tex
+pandoc --filter pandoc-minted.py myfile.ipynb -o myfile.tex
 ```
 
 
