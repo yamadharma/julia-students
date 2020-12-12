@@ -1,4 +1,10 @@
 
+v0.1.13 / 2020-12-12
+==================
+
+  * feat(Intro to Data Science): add optimization
+  * refactor: rename directories
+
 v0.1.12 / 2020-11-28
 ==================
 
